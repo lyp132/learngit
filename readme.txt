@@ -5,3 +5,4 @@ git tracks changs of files.
 Creating a new branch is quick and simple.
 add merge
 init hello
+set exit=1
